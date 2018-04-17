@@ -1,0 +1,4 @@
+Changes:
+PostgreSQL instead of SQLite
+Pending:
+REACT
